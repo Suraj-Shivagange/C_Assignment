@@ -1,0 +1,4 @@
+
+
+
+float function(float);
